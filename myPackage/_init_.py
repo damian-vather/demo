@@ -1,1 +1,1 @@
-from myPackage import myModule
+from . import myModule
